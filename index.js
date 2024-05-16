@@ -254,7 +254,7 @@ app.post("/bookings", async (req, resp) => {
       cout,
       guests,
       name,
-      number,
+      number, 
       email,
       price,
     });
